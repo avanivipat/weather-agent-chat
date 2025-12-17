@@ -33,6 +33,9 @@ It allows users to ask weather-related questions and receive responses in a conv
 - Typing indicator for better interaction
 - Modern gradient-based UI
 
+  <img width="1919" height="954" alt="image" src="https://github.com/user-attachments/assets/71d6010c-6d59-4d16-91f0-f47de4110e45" />
+
+
 ---
 
 ## 🛠 Setup Instructions
